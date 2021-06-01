@@ -1,0 +1,119 @@
+#all{
+	width: 140px;
+	height: 240px;
+	background: #2A09F6;
+	margin: 0 auto;
+}
+.dong1{
+	width: 140px;
+	height: 20px;
+	background: #FAF6F6;
+	float: left;
+}
+.trang1{
+	width: 40px;
+	height: 20px;
+	background: #FDFAFA;
+	float: left;
+}
+.do1{
+	width: 60px;
+	height: 20px;
+	background: #FD0926;
+	float: left;
+	/*margin-left: 40px;*/
+}
+
+}
+.dong2{
+	width: 140px;
+	height: 20px;
+	background: #FAF6F6;
+	float: left;
+}
+.trang2{
+	width: 40px;
+	height: 60px;
+	background: #FCFBFB;
+	float: left;
+}
+.nau2{
+	width: 20px;
+	height: 60px;
+	background: #94888F;
+	float: left;
+}
+.trang21{
+	width: 20px;
+	height: 60px;
+	background: #FCFBFB;
+	float: left;
+}
+.dong3{
+	width: 140px;
+	height: 20px;
+	background: #FAF6F6;
+	float: left;
+}
+.trang3{
+	width: 20px;
+	height: 20px;
+	background: #FCFBFB;
+	float: left;
+}
+.do3{
+	width: 100px;
+	height: 20px;
+	background: #FD0926;
+	float: left;
+	/*margin-left: 40px;*/
+}
+.dong4{
+	width: 140px;
+	height: 60px;
+	background: #FAF6F6;
+	float: left;
+}
+.trang4{
+	width: 20px;
+	height: 60px;
+	background: #FCFBFB;
+	float: left;
+}
+.nau4{
+	width: 20px;
+	height: 60px;
+	background: #94888F;
+	float: left;
+}
+.trang41{
+	width: 60px;
+	height: 60px;
+	background: #FCFBFB;
+	float: left;
+}
+.dong5{
+	width: 140px;
+	height: 20px;
+	background: red;
+	float: left;
+}
+.dong6{
+	width: 140px;
+	height: 60px;
+	background: #FDFAFA;
+	float: left;
+}
+.nau6{
+	width: 20px;
+	height: 60px;
+	background: #94888F;
+	float: left;
+}
+.trang61{
+	width: 100px;
+	height: 60px;
+	background: #FCFBFB;
+	float: left;
+}
+

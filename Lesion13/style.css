@@ -1,0 +1,113 @@
+#maudo{
+	width: 200px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+#mauxanh{
+	width: 200px;
+	height: 200px;
+	background: #3F15F5;
+	border: 5px solid #F6F30C;
+	/*margin-left: 200px;
+	margin-top: 40px;*/
+	float: left;
+	/*padding-top: 50px;
+	padding-left: 50px;*/
+}
+#mauxanh2{
+	width: 200px;
+	height: 200px;
+	background: #0FF124;
+	/*margin-left: 200px;*/
+	float: right;
+}
+p{
+	margin-top: 100px;
+	margin-left: 100px;
+}
+#khunglon{
+	width: 600px;
+	height: 600px;
+	background: #F80B0B;
+	float: left;
+}
+#khungnho{
+	width: 200px;
+	height: 200px;
+	background: #F8FB09;
+	margin-left: 200px;
+	margin-top: 200px;
+}
+#all{
+	width: 600px;
+	height: 600px;
+	background: #F4ACD6;
+}
+.dong{
+	width: 600px;
+	height: 200px;
+	background: blue;
+	/*float: left;*/
+}
+.xam{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	float: left;
+}
+.trang{
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left;
+}
+
+#all1{
+	width: 1000px;
+	height: 400px;
+	background: #F4ACD6;
+	floa
+}
+.dong1{
+	width: 1000px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+.hong{
+	width: 200px;
+	height: 200px;
+	background: #EC11E9;
+	float: left;
+}
+.trang{
+	width: 200px;
+	height: 200px;
+	background: #F9F7F9;
+	float: left;
+}
+.vang{
+	width: 200px;
+	height: 200px;
+	background: #F7F40E;
+	float: left;
+}
+.xanh{
+	width: 200px;
+	height: 200px;
+	background: #0AFE27;
+	float: left;
+}
+.xanhnuocbien{
+	width: 200px;
+	height: 200px;
+	background: #0A2CFE;
+	float: left;
+}
+.tim{
+	width: 200px;
+	height: 200px;
+	background: #8F0CB9;
+	float: left;
+}

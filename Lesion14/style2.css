@@ -1,0 +1,71 @@
+#all{
+	width: 900px;
+	height: 900px;
+	border: 5px solid #756E6E;
+	/*background: gray;*/
+}	
+#side-bar{
+	width:264px;
+	height: 800px;
+	background: #58DADF;
+	/*margin: 50px;*/
+	border: 3px solid #352626;
+	font-size: 120px;
+	display: flex; /* Canh giữa bằng flex */
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    color: #FDFAFA;
+}
+#cot2{
+	width: 510px;
+	height:806px ;
+	/*background: pink;*/
+	float: left;
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+#header{
+	width: 507px;
+	height:238px ;
+	background: #58DADF;
+	border: 3px solid #352626;
+	text-align: center;
+	font-size: 120px;
+	display: flex; /* Canh giữa bằng flex */
+    justify-content: center;
+    align-items: center;
+    color: #FDFAFA;
+}
+#content{
+	width: 507px;
+	height:286px ;
+	background: #58DADF;
+	border: 3px solid #352626;
+	text-align: center;
+	font-size: 120px;
+	display: flex; /* Canh giữa bằng flex */
+    justify-content: center;
+    align-items: center;
+    color: #FDFAFA;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+#footer{
+	width: 507px;
+	height:238px ;
+	background: #58DADF;
+	border: 3px solid #352626;
+	text-align: center;
+	font-size: 120px;
+	display: flex; /* Canh giữa bằng flex */
+    justify-content: center;
+    align-items: center;
+    color: #FDFAFA;
+    
+}

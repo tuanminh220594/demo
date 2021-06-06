@@ -1,0 +1,32 @@
+*{margin: 0px; padding: 0px;}
+ul{
+	width: 100%;
+	height: 70px;
+	 background-color:#908EF4;
+	 position: fixed;
+	 top: 0px;
+	 border-top: -70px;
+}
+li{
+	float: left;
+	line-height: 70px;
+	list-style: none;
+	margin-left: 20px;
+	padding: 0px 5px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-family: arial;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
+li:hover{
+	background-color: #7895F5;
+	
+}
+#noidung{
+	margin-top: 70px;
+}

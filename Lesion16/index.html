@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style type="text/css">
+	*{margin: 0px;padding: 0px;}
+		#menu{
+			width: 600px;
+			height: 70px;
+			background: #4C498B;
+			margin: auto;
+			position: relative;
+
+		}
+		
+		#menu > ul > li{
+			float: left;
+			line-height: 70px;
+			list-style: none;
+			margin-left: 20px;
+			padding: 0px 0px;
+			/*position: relative;
+			position: fixed;*/
+		}
+		/*#menu li ul{
+			position: absolute;
+			display: none;
+		}
+		#menu li a{
+			color: white;
+			text-decoration: none;
+			font-family: arial;
+			font-size: 14px;
+		}
+		a:hover{
+			text-decoration: underline;
+			color: #666996;
+		}
+		#menu li:hover ul{
+			width: 150px;
+			display: block;
+		}
+		#menu li ul li{
+			width: 120px;
+			background: #FF6E6E;
+			margin-left: 0px;
+
+		}
+		#menu li ul li:hover{
+			width: 120px;
+			background: #929090;
+		}*/
+		#menu a{
+			color: #F4F795;
+			text-decoration: #63D12D;
+			font-family: arial;
+
+		}
+		#menu li ul {
+			display: none;
+		}
+		#menu > ul > li:hover{
+			background: #2DD78D;
+		}
+
+
+		#menu > ul > li:hover ul{
+			width: 150px;
+			position: absolute;
+			background: #F265FB;
+			display: block;
+			list-style: none;
+
+		}
+
+	</style>
+</head>
+<body>
+	<div id="menu">
+		<ul>
+			<li>
+				<a href="#">trang chu</a>
+			</li>
+			<li>
+				<a href="#">Gioi Thieu</a>
+			</li>
+			<li>
+				<a href="#">san pham</a>
+				<ul>
+					<li><a href="#">san pham1</a></li>
+					<li><a href="#">san pham2</a></li>
+					<li><a href="#">san pham3</a></li>
+					<li><a href="#">san pham4</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">lien he</a>
+			</li>
+	</ul>
+	</div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\bin\Debug\WinProdKeyFind.exe.config
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\bin\Debug\WinProdKeyFind.exe
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\bin\Debug\WinProdKeyFind.pdb
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.csprojAssemblyReference.cache
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.DigitalProductIdForm.resources
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.MainForm.resources
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.Properties.Resources.resources
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.csproj.GenerateResource.cache
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.exe
+C:\Users\Minh\Downloads\WinProdKeyFinder-1.4\WinProdKeyFind\obj\Debug\WinProdKeyFind.pdb
